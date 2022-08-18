@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me linkedin.com/in/isudheen-isahac-90a460130
+- 📫 To reach me linkedin.com/in/isudheen-isahac-90a460130
 
 <!---
 Isudheen/Isudheen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
