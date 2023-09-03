@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isudheen
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Full Stack development
+- 🌱 I’m currently working as an Angular dev
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 To reach me linkedin.com/in/isudheen-isahac-90a460130
 
